@@ -1,0 +1,47 @@
+.headcom{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+}
+.my-hold{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.logocon{
+    height: 100%;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    font-weight:700;
+    font-size: 20px;
+}
+.navigation{
+    height: 100%;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav{
+    width: 80px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconnav{
+    width: 40px;
+    height: 40px;
+    background-color: orangered;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
